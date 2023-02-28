@@ -1,7 +1,7 @@
- public class ArraySession {
-        public static void main(String[] args){
-            ArrayMethods arrayMethods = new ArrayMethods();
-            arrayMethods.whateverMethod();
+// public class ArraySession {
+//     public static void main(String[] args) {
+//            ArrayMethods arrayMethods = new ArrayMethods();
+//            arrayMethods.whateverMethod();
 
 //            int[] numbers = new int[10];
 //
@@ -16,7 +16,7 @@
 //            numbers[8] = 108;
 //            numbers[9] = 109;
 
-            //System.out.println(numbers[5]);
+         //System.out.println(numbers[5]);
 
                                                /*or
                                               can use for loop*/
@@ -52,30 +52,15 @@
                                                     */
 
 
-
 //            for (int i = 0; i >= 0; i--) {
-//                if (numbers[i] == 104) {
+//                if (numbers[i] == 104)
 //                    ;
 //                }
 //                System.out.println(numbers[i]);
-
-
-            //or
-
-//            int counter = 3500;
-//
-//            for (int i=0; i<=9; i++){
-//                numbers[i] = counter+5;
-//            }
-//            System.out.println(numbers[7]);
-
-
-            //or
+//     }
+// }
 
 
 
-            }
-
-        }
 
 
